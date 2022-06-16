@@ -2,6 +2,7 @@ body{
     display: flex;
     flex-direction: column;
     height: 1500px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif
 }
 .page{
     padding: 20px;
@@ -100,7 +101,7 @@ body{
             flex-direction: column;
         }
             #quote{
-                width: 300px;
+                width: 500px;
                 align-self: center;
             }
             #HG{
